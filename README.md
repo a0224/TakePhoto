@@ -4,6 +4,11 @@
 TakePhoto 适配Androidx
 
 
+
+
+
+
+
   implementation 'com.github.whdroid:TakePhoto:1.0.1'
 
 ```
