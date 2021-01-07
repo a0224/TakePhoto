@@ -5,16 +5,15 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.provider.Settings;
-import android.view.View;
-
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
+import com.google.android.material.snackbar.Snackbar;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
+import androidx.appcompat.app.AppCompatActivity;
+import android.view.View;
 
 import com.darsh.multipleimageselect.R;
 import com.darsh.multipleimageselect.helpers.Constants;
-import com.google.android.material.snackbar.Snackbar;
 
 /**
  * Created by darshan on 26/9/16.
